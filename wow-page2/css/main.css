@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	padding: 0;
+	filter:  brightness(100%);
+	transition: all 1s;
+}
+
+header{
+	position: relative;
+	width: 100%;
+	min-width: 1400px;
+	height: 40px;
+	background-color: #0b0d12;
+	z-index: 5;
+}
+nav{
+/*	position: absolute;*/
+	/*width: 100%;
+	min-width: 1400px;
+	height:350px;
+	background-color: red;*/
+	float: left;
+}
+nav:after{
+	clear: both;
+}
+article{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	min-width: 100%;
+	/*min-width:1400px;*/
+	min-height: 5160px;
+	background-color: black;
+	z-index: -1;
+}
+footer {
+	position: relative;
+				margin: 0;
+				padding: 0;
+				background-color: black;
+				min-height: 680px;
+				min-width: 100%;
+				position: relative;
+			}

@@ -1,0 +1,184 @@
+.baoxue-icon{
+	position: absolute;
+	top: 0px;
+	left: 50px;
+	width: 70px;
+	height: 40px;
+		background-image: url(../img/暴雪图标暗.png);
+	background-position-x: center;
+	background-size: 110%;
+	background-repeat: no-repeat;
+/*	border: 1px solid white;*/
+	
+}
+.baoxue-icon a{
+		font-size: 18px;
+		color: transparent;
+}
+.baoxue-icon:hover{
+	background-image: url(../img/暴雪图标亮.png);
+}
+.nav1-game{
+		position: absolute;
+	top: 0px;
+	left: 120px;
+	margin-left: 15px;
+	width: 70px;
+	height: 40px;
+	/*background-color: aquamarine;*/
+	font-size: 18px;
+	float: left;
+	color: white;
+}
+.nav1-game input{
+	width: 70px;
+	height: 40px;
+background-color:transparent;
+	font-size: 18px;
+	color: white;
+	border: none;
+}
+.nav1-shop{
+	position: absolute;
+	top: 0px;
+	left: 205px;
+	margin-left: 15px;
+	width: 70px;
+	height: 40px;
+/*background-color: magenta;*/
+	font-size: 18px;
+	float: left;
+	color: gray;
+	line-height: 40px;
+	text-align: center;
+}
+.nav1-shop a{
+	text-decoration: none;
+	color: gray;
+	transition: color 1s;
+}
+.nav1-shop a:hover{
+	color: white;
+}
+.nav1-shop:after{
+	clear: both;
+}
+.nav1-news{
+	position: absolute;
+	top: 0px;
+	left: 290px;
+	margin-left: 15px;
+	width: 70px;
+	height: 40px;
+/*	background-color: magenta;*/
+	font-size: 18px;
+	float: left;
+	color: white;
+	line-height: 40px;
+	text-align: center;
+}
+.nav1-news a{
+	text-decoration: none;
+	color: gray;
+	transition: color 1s;
+}
+.nav1-news a:hover{
+	color: white;
+}
+.nav1-news:after{
+	clear: both;
+}
+.nav1-ecp{
+	position: absolute;
+	top: 0px;
+	left: 385px;
+	margin-left: 15px;
+	width: 100px;
+	height: 40px;
+/*	background-color: magenta;*/
+	font-size: 18px;
+	float: left;
+	color: white;
+	line-height: 40px;
+	text-align: center;
+}
+.nav1-ecp a{
+	text-decoration: none;
+	color: gray;
+	transition: color 1s;
+}
+.nav1-ecp a:hover{
+	color: white;
+}
+.nav1-ecp:after{
+	clear: both;
+}
+.nav1-ecp input{
+	width: 100px;
+	height: 40px;
+	background-color: black;
+	font-size: 18px;
+		color: gray;
+	border: none;
+	
+}
+
+.nav1-mycount{
+	position: absolute;
+	top: 0px;
+	right:0px ;
+	margin-left: 15px;
+	width: 100px;
+	height: 40px;
+/*	background-color: magenta;*/
+	font-size: 18px;
+	float: left;
+	color: white;
+	line-height: 40px;
+	text-align: center;
+}
+.nav1-mycount a{
+	text-decoration: none;
+	color: gray;
+	transition: color 1s;
+}
+.nav1-mycount a:hover{
+	color: white;
+}
+.nav1-mycount:after{
+	clear: both;
+}
+.nav1-mycount input{
+	width: 100px;
+	height: 40px;
+	background-color: black;
+	font-size: 18px;
+		color: gray;
+	border: none;
+}
+
+.nav1-support{
+	position: absolute;
+	top: 0px;
+	right: 110px;
+/*	margin-left: 15px;*/
+	width: 70px;
+	height: 40px;
+/*	background-color: magenta;*/
+	font-size: 18px;
+	float: left;
+	color: white;
+	line-height: 40px;
+	text-align: center;
+}
+.nav1-support a{
+	text-decoration: none;
+	color: gray;
+	transition: color 1s;
+}
+.nav1-support a:hover{
+	color: white;
+}
+.nav1-support:after{
+	clear: both;
+}

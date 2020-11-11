@@ -1,0 +1,221 @@
+	.footer-section{
+		position: relative;
+		width: 800px;
+		min-width: 800px;
+		min-height: 680px;
+	/*	background-color: thistle;*/
+		margin: 0px auto;
+	}
+	.footer-img-a {
+				width: 200px;
+				height: auto;
+				position: absolute;
+				top: 80px;
+				left: 250px;
+			/*	margin: 0px auto;*/
+				filter: brightness(100%);
+				transition:filter 500ms;
+			}
+		.footer-img-a:hover{
+				filter: brightness(130%);
+		}	
+			.footer-text-a {
+				left: 50px;
+				position: absolute;
+				top: 230px;
+				list-style-type: none;
+			}
+			
+			.footer-text-a li {
+				float: left;
+			}
+			
+			.footer-text-a a {
+				text-decoration: none;
+				float: left;
+				font-size: 25px;
+				color: lightgray;
+			}
+			
+			.footer-text-a a:hover {
+				color: white;
+			}
+			
+			.footer-text-a2 {
+				left: 200px;
+				position: absolute;
+				top: 270px;
+			}
+			
+			.footer-text-a2 p {
+				font-size: 18px;
+				color: dimgrey;
+			}
+			
+			.footer-text-a3 {
+				left: 150px;
+				position: absolute;
+				top: 300px;
+			}
+			
+			.footer-text-a3 p {
+				font-size: 18px;
+				color: dimgrey;
+			}
+			
+			.footer-text-b {
+				left: 155px;
+				top: 350px;
+				list-style-type: none;
+				position: absolute;
+			}
+			
+			.footer-text-b li {
+				float: left;
+			}
+			
+			.footer-text-b a {
+				text-decoration: none;
+				float: left;
+				font-size: 18px;
+				color: lightgray;
+			}
+			
+			.footer-text-b a :hover {
+				color: white;
+			}
+			
+			.footer-text-c {
+				left: -100px;
+				top: 385px;
+				list-style-type: none;
+				position: absolute;
+				/*	float: left;*/
+			}
+			
+			.footer-text-c li {
+				float: left;
+			}
+			
+			.footer-text-c a {
+				text-decoration: none;
+				float: left;
+				font-size: 17px;
+				color: dimgrey;
+			}
+			
+			.footer-text-c a:hover {
+				color: white;
+			}
+			
+			.footer-text-d {
+				left: 0px;
+				top: 415px;
+				list-style-type: none;
+				position: absolute;
+			}
+			
+			.footer-text-d li {
+				float: left;
+			}
+			
+			.footer-text-d a {
+				text-decoration: none;
+				float: left;
+				font-size: 17px;
+				color: dimgrey;
+			}
+			
+			.footer-text-d a:hover {
+				color: white;
+			}
+			
+			.footer-text-e {
+				left: 0px;
+				top: 445px;
+				list-style-type: none;
+				position: absolute;
+			}
+			
+			.footer-text-e li {
+				float: left;
+			}
+			
+			.footer-text-e a {
+				text-decoration: none;
+				float: left;
+				font-size: 17px;
+				color: lightgray;
+			}
+			
+			.footer-text-e a:hover {
+				color: white;
+			}
+			
+			.footer-text-f {
+				left: 5px;
+				top: 475px;
+				list-style-type: none;
+				position: absolute;
+			}
+			
+			.footer-text-f li {
+				float: left;
+			}
+			
+			.footer-text-f a {
+				text-decoration: none;
+				float: left;
+				font-size: 17px;
+				color: dimgrey;
+			}
+			
+			.footer-text-f a :hover {
+				color: white;
+			}
+			
+			.footer-text-g {
+				left: 120px;
+				position: absolute;
+				top: 515px;
+				list-style-type: none;
+			}
+			
+			.footer-text-g li {
+				float: left;
+			}
+			
+			.footer-text-g li img {
+				width: 50px;
+			}
+			
+			.footer-text-g a {
+				text-decoration: none;
+				margin-right: 20px;
+			}
+			
+			.footer-text-g a:hover {
+				color: white;
+			}
+			
+			.footer-text-h {
+				left: 45px;
+				position: absolute;
+				top: 585px;
+				list-style-type: none;
+			}
+			
+			.footer-text-h li {
+				float: left;
+			}
+			
+			.footer-text-h a {
+				text-decoration: none;
+				float: left;
+				font-size: 17px;
+				color: dimgrey;
+			}
+			
+			.footer-text-h a :hover {
+				color: white;
+			}
